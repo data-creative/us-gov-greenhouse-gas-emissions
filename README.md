@@ -14,7 +14,11 @@ Files in the [data directory](/data) represent machine-readable versions of GSA-
 
 View the solution live at http://data-creative.github.io/us-gov-greenhouse-gas-emissions/
 
-## Development
+## Contributing
+
+Issues and Pull Requests are welcome.
+
+### Development
 
 Download source.
 
